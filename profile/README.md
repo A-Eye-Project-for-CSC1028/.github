@@ -12,10 +12,10 @@
     <p align="center">
         The future of image generation and object detection.
         <br />
-        <a href="https://docs.a-eye-vision.tech"><strong>Explore the Docs »</strong></a>
+        <a href="https://info.a-eye.tech"><strong>Explore the Docs »</strong></a>
         <br />
         <br />
-        <a href="https://a-eye-vision.tech">View Demo</a>
+        <a href="https://a-eye.tech">View Demo</a>
     </p>
 </div>
 
